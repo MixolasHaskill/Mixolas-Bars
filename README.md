@@ -8,14 +8,14 @@ Mixolas Bars is a free World of Warcraft addon by **Mixolas HasKill**. It provid
 
 ## Current beta
 
-**Version:** `0.21.11-rc.8.65` (initial public beta, October 31, 2026)
+**Version:** `0.21.11-rc.8.66` (Classic Hardcore beta)
 
 **Supported client:**
 - WoW Classic Era / Hardcore — **1.15.9** (`11509`)
 
-RC8.65 passed five live in-game QA checks on Classic Hardcore. A cross-computer fresh-install test has not been confirmed. This is a beta, not a stable release.
+RC8.66 is the current download. RC8.65 is the most recent separately documented live gameplay QA baseline (five tests passed on Classic Hardcore). A cross-computer fresh-install test has not been confirmed. This is a beta, not a stable release.
 
-**Downloads:** [GitHub releases](https://github.com/MixolasHaskill/Mixolas-Bars/releases) · [Release details](RELEASE_NOTES_RC8.65.md)
+**Download:** [Mixolas Bars RC8.66 Hardcore Beta ZIP](https://raw.githubusercontent.com/MixolasHaskill/Mixolas-Bars/main/MixolasBars_0.21.11_RC8.66_CurseForge_Hardcore_Beta_Lean.zip) · [RC8.66 release notes](RELEASE_NOTES_RC8.66.md)
 
 ## Highlights
 
@@ -29,7 +29,7 @@ RC8.65 passed five live in-game QA checks on Classic Hardcore. A cross-computer 
 ## Install
 
 1. Close World of Warcraft.
-2. Download the **Hardcore Beta** ZIP from **Releases**.
+2. Download the **RC8.66 Hardcore Beta ZIP** using the link above.
 3. Extract it to your game client's `Interface/AddOns/` directory so that `Interface/AddOns/MixolasBars/MixolasBars.toc` exists.
 4. Start WoW and enable **Mixolas Bars** in the AddOns list.
 5. Back up your SavedVariables and existing native WoW keybindings before selecting/applying the MIXOLAS preset.
@@ -52,4 +52,4 @@ The video covers Steam layout installation and the Always-On command, rather tha
 - Cross-computer camera-view transfer is not yet verified; camera views were observed applying on the author's test installation.
 - This project is in active beta development. Feedback and reproducible bug reports are welcome.
 
-See [RC8.65 release notes](RELEASE_NOTES_RC8.65.md) for the full change summary and package checksum.
+See [RC8.66 release notes](RELEASE_NOTES_RC8.66.md) for the current package description and testing notes.
