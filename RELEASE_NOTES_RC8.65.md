@@ -2,9 +2,8 @@
 
 **Initial public beta build** of Mixolas Bars by Mixolas HasKill.
 
-**Supported clients (declared in the included .toc):**
+**Supported client (declared in the included .toc):**
 - World of Warcraft Classic Era / Hardcore — 1.15.9 (Interface 11509)
-- World of Warcraft Forever — 1.60.1 (Interface 16001)
 
 ## Included in this build
 - Controller-first action bars, modifier diamonds, configurable frames, and Pet Bar.
@@ -42,5 +41,5 @@
 
 ## Package integrity
 
-SHA-256 of `MixolasBars_v0.21.11-rc.8.65_Beta.zip`:
-`851472aa84b477a0a99f3b94b241644117125b4bda6cbaf2484ad5f55207db9a`
+SHA-256 of `MixolasBars_v0.21.11-rc.8.65_Hardcore_Beta.zip`:
+`e93d05b14a9e1611c989d425b6135dae3b32af04b70bcfa0eda115ee7bfbbca2`
