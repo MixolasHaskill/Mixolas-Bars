@@ -10,9 +10,8 @@ Mixolas Bars is a free World of Warcraft addon by **Mixolas HasKill**. It provid
 
 **Version:** `0.21.11-rc.8.65` (initial public beta, October 31, 2026)
 
-**Game clients declared by the addon:**
+**Supported client:**
 - WoW Classic Era / Hardcore — **1.15.9** (`11509`)
-- WoW Forever — **1.60.1** (`16001`)
 
 RC8.65 passed five live in-game QA checks on Classic Hardcore. A cross-computer fresh-install test has not been confirmed. This is a beta, not a stable release.
 
@@ -30,7 +29,7 @@ RC8.65 passed five live in-game QA checks on Classic Hardcore. A cross-computer 
 ## Install
 
 1. Close World of Warcraft.
-2. Download the beta ZIP from **Releases**.
+2. Download the **Hardcore Beta** ZIP from **Releases**.
 3. Extract it to your game client's `Interface/AddOns/` directory so that `Interface/AddOns/MixolasBars/MixolasBars.toc` exists.
 4. Start WoW and enable **Mixolas Bars** in the AddOns list.
 5. Back up your SavedVariables and existing native WoW keybindings before selecting/applying the MIXOLAS preset.
@@ -51,7 +50,6 @@ The video covers Steam layout installation and the Always-On command, rather tha
 ## Limitations and feedback
 
 - Cross-computer camera-view transfer is not yet verified; camera views were observed applying on the author's test installation.
-- WoW Forever and Classic Hardcore client behavior may differ.
 - This project is in active beta development. Feedback and reproducible bug reports are welcome.
 
 See [RC8.65 release notes](RELEASE_NOTES_RC8.65.md) for the full change summary and package checksum.
