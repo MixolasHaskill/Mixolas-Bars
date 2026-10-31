@@ -1,0 +1,46 @@
+# Mixolas Bars v0.21.11 RC8.65 — Beta
+
+**Initial public beta build** of Mixolas Bars by Mixolas HasKill.
+
+**Supported clients (declared in the included .toc):**
+- World of Warcraft Classic Era / Hardcore — 1.15.9 (Interface 11509)
+- World of Warcraft Forever — 1.60.1 (Interface 16001)
+
+## Included in this build
+- Controller-first action bars, modifier diamonds, configurable frames, and Pet Bar.
+- Customizable visuals, positions, and labels.
+- Built-in **MIXOLAS** Hardcore preset using the author's finalized tested setup.
+- 59 Mixolas binding slots and 86 native WoW key mappings included in the preset.
+- Built-in MIXOLAS remains protected while new personal profile copies are editable.
+- User profiles can be renamed, deleted, backed up, restored, and transferred.
+- Applying native WoW keybindings requires explicit overwrite confirmation.
+- Portable Settings import/export with review before applying changes.
+- Fixes and improvements for Pet Bar visibility and keybind-preview behavior.
+
+## Testing
+- RC8.65 passed five live in-game QA checks on October 31, 2026.
+- Earlier RC8.64 profile regression testing passed eight checks.
+
+## Install
+1. Exit World of Warcraft.
+2. Extract the release ZIP and place `MixolasBars` under `World of Warcraft/.../Interface/AddOns/` for your selected game client.
+3. Verify the resulting path contains `MixolasBars/MixolasBars.toc`.
+4. Start WoW and enable Mixolas Bars in the AddOns list.
+5. Back up your existing SavedVariables and WoW keybindings before applying the MIXOLAS preset.
+
+## Important limitations
+- Spell placements in Blizzard action slots and macro contents are **not** included in the export.
+- Cross-computer camera-view transfer is **not yet verified**. Camera views were observed applying on the author's tested installation.
+- This ZIP does **not** include the separate Steam Input controller configuration.
+- This is a **beta** rather than a final stable release.
+
+## Steam Controller 2 resources
+- [Quick setup and download tutorial](https://youtu.be/ZJXug3yZYmo)
+- [SteamInputDB configuration 3830487043](https://steaminputdb.com/config/3830487043)
+- [SteamInputDB configuration 3830487378](https://steaminputdb.com/config/3830487378)
+- [YouTube: Mixolas HasKill](https://www.youtube.com/@mixolashaskill)
+
+## Package integrity
+
+SHA-256 of `MixolasBars_v0.21.11-rc.8.65_Beta.zip`:
+`851472aa84b477a0a99f3b94b241644117125b4bda6cbaf2484ad5f55207db9a`
