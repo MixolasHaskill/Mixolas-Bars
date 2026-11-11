@@ -40,6 +40,7 @@
 ## Steam Controller 2 resources
 
 - [Steam Controller 2 quick setup & download tutorial](https://youtu.be/ZJXug3yZYmo)
-- [SteamInputDB configuration 3830487043](https://steaminputdb.com/config/3830487043)
-- [SteamInputDB configuration 3830487378](https://steaminputdb.com/config/3830487378)
+- **Updated Steam Input download (November 11, 2026): [Universal Steam Deck / Steam Controller 2 WoW Layout](https://steaminputdb.com/config/3838058545)**
+- [Current installation and Free Mouse instructions](STEAM_INPUT_SETUP.md)
+- The older two-layout / separate Guide Button Chord instructions are obsolete.
 - [YouTube: Mixolas HasKill](https://www.youtube.com/@mixolashaskill)
