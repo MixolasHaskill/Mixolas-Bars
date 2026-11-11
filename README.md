@@ -6,14 +6,17 @@ Mixolas Bars is a free World of Warcraft addon by **Mixolas HasKill**. It provid
 
 > Not making World of Warcraft a controller game — making a controller meet the demands of World of Warcraft.
 
-## Current beta
+## GitHub download (archived RC8.66 beta)
+
+**For the latest Classic Hardcore build**, see [Mixolas Controller Bars on CurseForge](https://www.curseforge.com/wow/addons/mixolas-controller-bars). The GitHub ZIP below remains RC8.66, while CurseForge currently lists RC8.69 for Classic Hardcore (checked November 11, 2026). The Steam Input layout is a separate download and is linked further below.
+
 
 **Version:** `0.21.11-rc.8.66` (Classic Hardcore beta)
 
 **Supported client:**
 - WoW Classic Era / Hardcore — **1.15.9** (`11509`)
 
-RC8.66 is the current download. RC8.65 is the most recent separately documented live gameplay QA baseline (five tests passed on Classic Hardcore). A cross-computer fresh-install test has not been confirmed. This is a beta, not a stable release.
+RC8.66 is the version of the ZIP hosted in this GitHub repository. RC8.65 is the most recent separately documented live gameplay QA baseline (five tests passed on Classic Hardcore). A cross-computer fresh-install test has not been confirmed. This is a beta, not a stable release.
 
 **Download:** [Mixolas Bars RC8.66 Hardcore Beta ZIP](https://raw.githubusercontent.com/MixolasHaskill/Mixolas-Bars/main/MixolasBars_0.21.11_RC8.66_CurseForge_Hardcore_Beta_Lean.zip) · [RC8.66 release notes](RELEASE_NOTES_RC8.66.md)
 
