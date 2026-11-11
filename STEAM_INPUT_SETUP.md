@@ -34,7 +34,7 @@ The current universal layout also provides a mouse/ping binding family. An upcom
 ## Addons and planned updates
 
 - [Mixolas Controller Bars](https://www.curseforge.com/wow/addons/mixolas-controller-bars)
-- [Mixolas Controller Companion](https://www.curseforge.com/wow/addons/mixolas-companion)
+- [Mixolas Controller Companion](https://www.curseforge.com/wow/addons/mixolas-controller-companion)
 - **Coming soon (not yet part of the advertised releases):** Mixolas Controller Bars ping support and Mixolas Controller Companion Auctionator compatibility.
 
 The Steam Input layout and the WoW addons are **separate downloads**. Installing an addon does not automatically apply the Steam Input configuration.
