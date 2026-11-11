@@ -41,8 +41,12 @@ The package also documents `/mxbtransfer` for portable settings.
 ## Steam Controller 2
 
 - [Quick setup & download video](https://youtu.be/ZJXug3yZYmo)
-- [SteamInputDB configuration 3830487043](https://steaminputdb.com/config/3830487043)
-- [SteamInputDB configuration 3830487378](https://steaminputdb.com/config/3830487378)
+**NEW — November 11, 2026: Only one Steam Input layout is needed.**
+
+- **[Steam Deck / Steam Controller 2 WoW Layout — universal download](https://steaminputdb.com/config/3838058545)**
+- [Current setup and Free Mouse instructions](STEAM_INPUT_SETUP.md)
+
+The older separate Steam/Guide Button Chord setup demonstrated in the Quick Start video is obsolete. Hold **D-pad Down** to enable Free Mouse temporarily: Always-On right-click releases, LT/RT become right/left mouse click, and releasing D-pad Down restores gameplay controls. No second Guide Button download is required.
 - [Mixolas HasKill on YouTube](https://www.youtube.com/@mixolashaskill)
 
 The video covers Steam layout installation and the Always-On command, rather than in-game keybinding configuration.
